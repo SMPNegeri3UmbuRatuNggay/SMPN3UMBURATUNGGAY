@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site 2023-12-19 18:16",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1572,7 +1572,7 @@
               "border-radius": "50%"
             },
             ".mbr-section-title": {
-              "color": "#3973e0"
+              "color": "#6592e6"
             },
             ".mbr-section-subtitle": {
               "color": "#232323"
@@ -1590,7 +1590,7 @@
             },
             ".card-title, .iconfont-wrapper": {
               "text-align": "center",
-              "color": "#6592e6"
+              "color": "#3973e0"
             },
             ".card-text": {
               "text-align": "center",
